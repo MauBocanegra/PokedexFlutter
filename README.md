@@ -12,10 +12,18 @@ Data sources:
 
 ## Screenshots
 
-> Replace the paths below with your real screenshot filenames once uploaded.
-
-![Pokemon List](./docs/screenshots/pokemon_list.png)
-![Pokemon Detail](./docs/screenshots/pokemon_detail.png)
+<img
+    src="https://github.com/user-attachments/assets/c8349719-c028-4935-be70-e12b3810d3e2"
+    alt="Pokemon List"
+    height="600"
+    style="width:auto; object-fit:contain;"
+  />
+  <img
+    src="https://github.com/user-attachments/assets/4f2f7ee4-a836-4b29-a42c-4dedf4e1ac7f"
+    alt="Pokemon Detail"
+    height="600"
+    style="width:auto; object-fit:contain;"
+  />
 
 ---
 
